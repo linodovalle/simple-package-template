@@ -1,4 +1,4 @@
-# simple-package-template
+# Repositório: "simple-package-template"
 
 Nesse repositório trazemos apenas um template de uma estrutura simples para criação de pacotes e publicação no Test Pypi e Pypi.
 O template busca estruturar uma organização básica de arquivos necessários à publicação de módulos e pacotes para a comunidade Python:
